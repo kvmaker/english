@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 2,
+  "publicationOrigin": "https://numforge-zjqdnptp.manus.game",
+  "title": "数算挑战",
+  "description": "使用四张数字牌与基本运算凑出 24 的中文益智挑战，逐关增强推理难度并提供非打断式提示。",
+  "defaultCaptions": {
+    "x": "在《数算挑战》中，用四张数字牌凑出 24。",
+    "facebook": "用四张数字牌与基本运算凑出 24，挑战你的心算与推理。",
+    "reddit": "一个中文 24 点益智游戏：逐关升级，随时查看不打断思路的提示。",
+    "discord": "数算挑战：用四张数字牌凑出 24。"
+  },
+  "assets": {
+    "og": {
+      "digest": "sha256:a4bbfd110935e46da363f416d1a566a5297e7a3b29dbfa265093a6a1ca977043",
+      "path": "share/a4bbfd110935e46da363f416d1a566a5297e7a3b29dbfa265093a6a1ca977043.png",
+      "mime": "image/png",
+      "width": 1200,
+      "height": 630,
+      "sizeBytes": 976061,
+      "sourcePath": "assets/share/og.png"
+    },
+    "favicon": {
+      "digest": "sha256:d6e328e6caf18c0efe253570594e10915dac745abee8860c0d4dc74ba9d3ace5",
+      "path": "share/d6e328e6caf18c0efe253570594e10915dac745abee8860c0d4dc74ba9d3ace5.png",
+      "mime": "image/png",
+      "width": 256,
+      "height": 256,
+      "sizeBytes": 35673,
+      "sourcePath": "assets/share/favicon.png"
+    }
+  }
+}

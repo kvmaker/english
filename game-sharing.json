@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "title": "数算挑战",
+  "description": "使用四张数字牌与基本运算凑出 24 的中文益智挑战，逐关增强推理难度并提供非打断式提示。",
+  "defaultCaptions": {
+    "x": "在《数算挑战》中，用四张数字牌凑出 24。",
+    "facebook": "用四张数字牌与基本运算凑出 24，挑战你的心算与推理。",
+    "reddit": "一个中文 24 点益智游戏：逐关升级，随时查看不打断思路的提示。",
+    "discord": "数算挑战：用四张数字牌凑出 24。"
+  },
+  "assets": {
+    "favicon": "assets/share/favicon.png",
+    "og": "assets/share/og.png"
+  }
+}

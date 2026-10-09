@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "checks": [
+    {
+      "kind": "script",
+      "profile": "source",
+      "path": "res://tests/test_numforge.gd",
+      "expect": "NUMFORGE_TEST_OK"
+    }
+  ]
+}
