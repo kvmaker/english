@@ -1,0 +1,15 @@
+{
+  "pck_url": "/manus-storage/game/sha256/41eff6ef5a205951387505e638dca89e11dc489acd34818e6b2b683042582b22.pck",
+  "wasm_url": "/manus-storage/game/sha256/fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0.wasm",
+  "engine_version": "4.7.2.stable.official.ed1daf0bf",
+  "source_fingerprint": "sha256:d02118d373c30f298db7c0078a1c09304e41f3ce6be18f2d9eddaedc726d6cad",
+  "template_validation": {
+    "status": "not-required",
+    "template": "game-puzzle",
+    "genre": "puzzle"
+  },
+  "wasm_sha256": "sha256:fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
+  "wasm_content_encoding": "br",
+  "wasm_encoded_sha256": "sha256:fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0",
+  "pck_sha256": "sha256:41eff6ef5a205951387505e638dca89e11dc489acd34818e6b2b683042582b22"
+}
